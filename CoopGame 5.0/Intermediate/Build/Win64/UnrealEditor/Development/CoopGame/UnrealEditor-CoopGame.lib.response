@@ -1,0 +1,38 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CoopGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\CoopGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\STrackerBot.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\SExplosiveBarrel.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\SHealthComponent.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\SCharacter.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\SGameMode.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\SGameState.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\SPickupActor.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\SPlayerState.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\SPowerupActor.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\SProjectileWeapon.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\SWeapon.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\CoopGame.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\CoopGameGameModeBase.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\CoopGame.init.gen.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\CoopGameGameModeBase.gen.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\SCharacter.gen.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\SExplosiveBarrel.gen.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\SGameMode.gen.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\SGameState.gen.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\SHealthComponent.gen.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\SPickupActor.gen.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\SPlayerState.gen.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\SPowerupActor.gen.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\SProjectileWeapon.gen.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\STrackerBot.gen.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\SWeapon.gen.cpp.obj"
+"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\Default.rc2.res"
+/OUT:"D:\IKO Tutorial\Udemy\Multiplayer\CoopGame 5.0\Intermediate\Build\Win64\UnrealEditor\Development\CoopGame\UnrealEditor-CoopGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_CoopGame

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CoopGame",
+			"Path": "D:\\IKO Tutorial\\Udemy\\Multiplayer\\CoopGame 5.0\\Source\\CoopGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CoopGameEditor",
+			"Path": "D:\\IKO Tutorial\\Udemy\\Multiplayer\\CoopGame 5.0\\Source\\CoopGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

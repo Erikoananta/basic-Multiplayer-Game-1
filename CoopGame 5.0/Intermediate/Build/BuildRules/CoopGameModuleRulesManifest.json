@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\IKO Tutorial\\Udemy\\Multiplayer\\CoopGame 5.0\\Source\\CoopGame\\CoopGame.Build.cs",
+		"D:\\IKO Tutorial\\Udemy\\Multiplayer\\CoopGame 5.0\\Source\\CoopGame.Target.cs",
+		"D:\\IKO Tutorial\\Udemy\\Multiplayer\\CoopGame 5.0\\Source\\CoopGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}
